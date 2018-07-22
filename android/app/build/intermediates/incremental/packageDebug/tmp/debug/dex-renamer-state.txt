@@ -1,0 +1,4 @@
+#Sat Jul 21 16:46:29 CEST 2018
+base.0=C\:\\Users\\night\\Desktop\\React\\nightofluna\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
